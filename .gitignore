@@ -1,0 +1,35 @@
+# iOS
+iOS/Pods/
+iOS/Podfile.lock
+iOS/Qulaylik.xcworkspace/
+iOS/.DS_Store
+iOS/build/
+
+# Android
+Android/.gradle/
+Android/build/
+Android/local.properties
+Android/.idea/
+Android/*.iml
+
+# Windows
+Windows/bin/
+Windows/obj/
+Windows/.vs/
+Windows/*.user
+
+# Backend
+Backend/node_modules/
+Backend/.env
+Backend/.env.local
+Backend/dist/
+Backend/build/
+
+# General
+.DS_Store
+*.log
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
